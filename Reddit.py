@@ -3,7 +3,7 @@ import pandas as pd
 import datetime as dt
 import pandas as pd
 
-reddit=praw.Reddit(client_id='-bJnuIJV5jOLRQ',client_secret='BOYbv2nQLSEUFS2BiDDG4593lVI',user_agent='Reddit_Scrapper',username='bhargav99',password='Bhargav99@')
+reddit=praw.Reddit(client_id='##########',client_secret='##############',user_agent='Reddit_Scrapper',username='########',password='#######')
 
 list_text=['MachineLearning']
 posts=[]
