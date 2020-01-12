@@ -13,4 +13,3 @@ Here’s a quick peek, getting the first 5 submissions from the ‘hot’ sectio
 >>> [str(x) for x in submissions]
 This will display something similar to the following:
 
-aims to be as eas
