@@ -7,9 +7,4 @@ PRAW, an acronym for “Python Reddit API Wrapper”, is a python package that a
 
 Here’s a quick peek, getting the first 5 submissions from the ‘hot’ section of the ‘opensource’ subreddit:
 
->>> import praw
->>> r = praw.Reddit(user_agent='my_cool_application')
->>> submissions = r.get_subreddit('opensource').get_hot(limit=5)
->>> [str(x) for x in submissions]
-This will display something similar to the following:
 
